@@ -1,0 +1,15 @@
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\bin\x86\Debug\wfValidou.exe.config
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\bin\x86\Debug\wfValidou.exe
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\bin\x86\Debug\wfValidou.pdb
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\bin\x86\Debug\NLipsum.Core.dll
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\bin\x86\Debug\Rhino.Mocks.dll
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\bin\x86\Debug\NLipsum.Core.xml
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\bin\x86\Debug\Rhino.Mocks.xml
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\obj\x86\Debug\wfValidou.Form1.resources
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\obj\x86\Debug\wfValidou.Properties.Resources.resources
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\obj\x86\Debug\wfValidou.csproj.GenerateResource.cache
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\obj\x86\Debug\wfValidou.csproj.CoreCompileInputs.cache
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\obj\x86\Debug\wfValidou.csproj.CopyComplete
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\obj\x86\Debug\wfValidou.exe
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\obj\x86\Debug\wfValidou.pdb
+D:\Projetos Atuais\Desktop\VP\wfValidou\wfValidou\obj\x86\Debug\wfValidou.csprojAssemblyReference.cache
