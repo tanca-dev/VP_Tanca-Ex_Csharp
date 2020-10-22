@@ -1,4 +1,6 @@
-# VP_Tanca-Exemplo_CSHARP
+#VP_Tanca-Exemplo_CSHARP
+
+![VP](https://user-images.githubusercontent.com/69587924/96902987-980d5980-146b-11eb-8f92-5d587b128fac.png)
 
 <p><a name="_Toc47360310"></a></p>
 <h1 style="text-align: center;"><strong>MANUAL DE DESENVOLVIMENTO</strong></h1>
