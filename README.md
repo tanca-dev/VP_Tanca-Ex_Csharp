@@ -1,4 +1,3 @@
-#VP_Tanca-Exemplo_CSHARP
 
 ![VP](https://user-images.githubusercontent.com/69587924/96902987-980d5980-146b-11eb-8f92-5d587b128fac.png)
 
@@ -918,3 +917,4 @@
 <h2><a name="_Toc47360321"></a><strong><u>SUPORTE T&Eacute;CNICO</u></strong></h2>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Em caso de d&uacute;vidas, entrar em contato atrav&eacute;s de solicita&ccedil;&atilde;o de suporte no canal <a href="https://servidorseguro.mysuite2.com.br/client/login.php?sl=tanc&amp;h=&amp;inf=&amp;lf=">SUPORTE TANCA</a>, nossa equipe est&aacute; disposi&ccedil;&atilde;o.</p>
+#VP_Tanca-Exemplo_CSHARP
